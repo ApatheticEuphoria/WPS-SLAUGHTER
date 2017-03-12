@@ -19,3 +19,12 @@ Credits:
  - Based on ideas from Repzeroworld.
  
  !!!!!FOR EDUCATIONAL OR TESTING PURPOSES ONLY!!!!!
+
+
+
+
+
+
+Alternatively, see https://github.com/r0bag/pentest/blob/master/ReVdK3-r3.sh for Revdk3-r3.sh , a script which operates on the same basic premise, but is written differently or more likely... better than mine. ;)
+
+https://www.youtube.com/results?search_query=revdk3
