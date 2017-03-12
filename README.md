@@ -17,3 +17,5 @@ Credits:
 
  - Help & Support from: Aanarchyy,Deltax.
  - Based on ideas from Repzeroworld.
+ 
+ !!!!!FOR EDUCATIONAL OR TESTING PURPOSES ONLY!!!!!
