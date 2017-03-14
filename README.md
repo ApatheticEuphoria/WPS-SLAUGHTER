@@ -15,7 +15,7 @@ Video Demonstration(OLD): https://youtu.be/lsl2JsHndjE
 
 Credits:
 
- - Help & Support from: Aanarchyy,Deltax,Strasharo.
+ - Help & Support from: Aanarchyy.
  - Based on ideas from Repzeroworld.
  
  !!!!!FOR EDUCATIONAL OR TESTING PURPOSES ONLY!!!!!
