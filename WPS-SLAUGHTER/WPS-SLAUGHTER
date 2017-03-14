@@ -1149,7 +1149,7 @@ declare WIFI_MONITOR5;
 
 top
 echo " "
-echo "## Credits to Aanarchyy(Autoflood help),Deltax(Base code for Wifi Scanner and @Fluxion), And Strasharo(@Fluxion)##"
+echo "## Credits to Aanarchyy(Autoflood help)"
 echo " "
 echo "CURRENT ISSUES:"
 echo "   -Tons of unneeded or left over code from Fluxion."
